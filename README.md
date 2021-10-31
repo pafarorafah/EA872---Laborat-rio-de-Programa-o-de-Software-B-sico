@@ -1,2 +1,2 @@
-# EA872---Laborat-rio-de-Programa-o-de-Software-B-sico
+# EA872---Laboratario de Programacao de Software Basico
 Exercícios de EA872
